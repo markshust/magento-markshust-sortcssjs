@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Markshust_Sortcssjs>
+            <version>1.0.0</version>
+        </Markshust_Sortcssjs>
+    </modules>
+    
+    <global>
+        <blocks>
+            <page>
+                <rewrite>
+                    <html_head>Markshust_Sortcssjs_Block_Page_Html_Head</html_head>
+                </rewrite>
+            </page>
+        </blocks>
+    </global>
+</config>

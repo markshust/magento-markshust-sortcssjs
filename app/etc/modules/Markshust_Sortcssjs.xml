@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Markshust_Sortcssjs>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Markshust_Sortcssjs>
+    </modules>
+</config>
